@@ -1,0 +1,85 @@
+nct_id,Type,Criterion
+NCT05504837,Inclusion,Subjects aged 18 years or older at the time of Informed Consent
+NCT05504837,Inclusion,"A confirmed diagnosis of CF as defined by clinical signs and symptoms of CF and at least one of the following:A historical sweat chloride value >60 mmol/L
+Two copies of a disease causing mutation in the CFTR gene"
+NCT05504837,Inclusion,Clinically stable in the opinion of the Investigator
+NCT05504837,Inclusion,"Percent predicted FEV1 ≥40% and ≤100% of the predicted normal for age, gender, and height at Screening"
+NCT05504837,Inclusion,Resting oxygen saturation ≥92% on room air at Screening
+NCT05504837,Exclusion,"Initiation of any new chronic therapy (eg, CFTR modulator, hypertonic saline, inhaled antibiotic) or any change in chronic therapy (excluding pancreatic enzyme replacement therapy) within 28 days prior to the first dose"
+NCT05504837,Exclusion,"Hospitalization, sinopulmonary infection, CF exacerbation, or other clinically significant infection or illness 14 days prior to the first dose that, in the opinion of the Investigator, may confound study results"
+NCT05504837,Exclusion,"Treatment for Burkholderia cenocepacia, Burkholderia dolosa, or Nontuberculosis Mycobacteria infection within 3 months prior to the first dose"
+NCT05504837,Exclusion,"Participation in another clinical study or treatment with an investigational agent 30 days or 5 half-lives, whichever is longer, prior to the first dose"
+NCT05504837,Exclusion,History of or listed for solid organ transplantation
+NCT05504837,Exclusion,"Any condition (including a history or current evidence of substance abuse or dependence, uncontrolled asthma, or is considered to be immunocompromised) that, in the opinion of the Investigator, would impact a subject's ability to complete all study-related procedures and/or poses an additional risk to the assessment of safety of KB407"
+NCT05504837,Exclusion,An active oral herpes infection 30 days prior to the first dose
+NCT05504837,Exclusion,Has received a vaccine within 72 hours prior to the first dose or has a planned vaccination during the treatment period
+NCT05504837,Exclusion,Women who are pregnant or nursing
+NCT05504837,Exclusion,Subject who is unwilling to comply with contraception requirements per protocol
+NCT05504837,Exclusion,Clinically significant abnormalities of hematology or chemistry testing at Screening that the Investigator believes may interfere with the assessment of safety and/or efficacy of the study treatment
+NCT05504837,Exclusion,Subject has a known hypersensitivity to inhaled glycerol
+NCT06154447,Inclusion,Participants between the ages of 18 and 55 years
+NCT06154447,Inclusion,Body mass index (BMI) of 18.0 to 32.0 kilogram per meter square (kg/m^2)
+NCT06154447,Inclusion,A total body weight of more than (>) 50 kg
+NCT06154447,Inclusion,Nonsmoker or ex-smoker for at least 3 months before screening with current nonsmoking status confirmed by urine or blood cotinine at screening
+NCT06154447,Exclusion,History of febrile illness or other acute illness within 14 days before the first dose of study drug
+NCT06429176,Inclusion,Diagnosis of CF and two CF causing mutations; 3849+10 Kb C->T mutation on one allele in the CF transmembrane conductance regulator (CFTR) gene (homozygote or compound heterozygote). Source documentation from a certified genetic laboratory is required.
+NCT06429176,Inclusion,Body mass index (BMI) of ≥ 17 kg/m2.
+NCT06429176,Inclusion,FEV1 40-90% predicted at screening.
+NCT06429176,Inclusion,"Non-smokers or vapers for at least 180 days (6 months) prior to screening, per participant report."
+NCT06429176,Exclusion,"Use of Kalydeco, Orkambi, Symdeko/Symkevi or Trikafta/Kaftrio within 30 days of first dose with study intervention."
+NCT06429176,Exclusion,Use of any investigational drug (other than SPL84) or device within 30 days of first dose with study intervention.
+NCT06429176,Exclusion,"Use of systemic steroids over 3 consecutive months in the last 6 months prior to screening, or use of systemic steroids in the last month prior to screening. Use of inhaled steroids above 1 mg."
+NCT06429176,Exclusion,"Use of CF medications, e.g. inhaled antibiotics, dornase alfa (Pulmozyme), hypertonic saline and physiotherapy should be on stable regimen for the period 28 days prior to screening; those participants taking inhaled antibiotics for prophylaxis must be on a stable regimen of these drugs for at least 90 days prior to first dose with study intervention."
+NCT06429176,Exclusion,"Any acute infection including acute upper respiratory or lower respiratory infections, pulmonary exacerbation, changes in therapy for pulmonary disease, or any non CF-related illness which results in the initiation of any new therapy within 14 days prior to first dose with study intervention."
+NCT06429176,Exclusion,"Hemoptysis of greater than 30 mL within 90 days prior to Day 1, or hospitalization for hemoptysis within 6 months of first dose with study intervention."
+NCT06429176,Exclusion,Liver disease characterized by clinically significant cirrhosis and/or documented portal hypertension.
+NCT06429176,Exclusion,History of any organ transplantation.
+NCT06429176,Exclusion,Documented coronavirus disease (COVID-19) infection within 4 weeks prior to dosing.
+NCT06526923,Inclusion,"Males or females, age 18 to 65 years at Screening Visit, inclusive"
+NCT06526923,Inclusion,Diagnosis of CF
+NCT06526923,Inclusion,ppFEV1 value between 50-100% (inclusive)
+NCT06526923,Inclusion,Resting oxygen saturation ≥94% on room air by pulse oximetry
+NCT06526923,Exclusion,"Any change in established pulmonary treatment (including antibiotics) within 28 days prior to Screening Visit. However, inhaled beta-agonists can be included within 2 weeks prior to Screening Visit."
+NCT06526923,Exclusion,Clinically significant episode of hemoptysis (>50 mL or ¼ cup or 10 teaspoons per day) within 12 weeks prior to dosing with study drug on Day 1
+NCT06526923,Exclusion,Lung infection with Mycobacterium abscessus associated with a more rapid decline in pulmonary status
+NCT06526923,Exclusion,Currently receiving treatment for active lung infection with Burkholderia cenocepacia or Burkholderia dolosa
+NCT06526923,Exclusion,History of solid organ or hematological transplantation
+NCT06526923,Exclusion,History of clinically significant cirrhosis with or without portal hypertension
+NCT06526923,Exclusion,History of pulmonary hypertension
+NCT06526923,Exclusion,"History of cardiotoxicity, a history of known coronary artery disease, and/or existing cardiomyopathy"
+NCT06526923,Exclusion,"Current active fungal infection (not just a positive culture), acute blood, lung, or bladder infection, clinically significant hepatic or renal dysfunction, and/or viral infection (including human immunodeficiency virus or hepatitis virus B or C) requiring the initiation of new therapy within 30 days prior to Screening"
+NCT06526923,Exclusion,History of allergic bronchopulmonary aspergillosis (ABPA)
+NCT06526923,Exclusion,"Uncontrolled diabetes mellitus, as evidenced by hemoglobin A1c >9% at Screening"
+NCT06526923,Exclusion,Clinically significant laboratory abnormalities at Screening
+NCT06526923,Exclusion,"Subjects who received any investigational products within 30 days (or 5 therapeutic half-lives, whichever is longer) prior to Screening"
+NCT06526923,Exclusion,Subjects who have previously received any gene therapy agent
+NCT06526923,Exclusion,"Subjects with known sensitivity to SP-101, doxorubicin or its excipients"
+NCT05668741,Inclusion,Body mass index is less than (<) 30.0 kilograms per meter square (kg/m^2)
+NCT05668741,Inclusion,A total body weight greater than (>) 50 kg
+NCT05668741,Inclusion,Stable CF disease
+NCT05668741,Inclusion,CFTR gene mutations on both alleles that are not responsive to CFTR modulator therapy
+NCT05668741,Inclusion,"Forced expiratory volume in 1 second (FEV1) value for SAD: greater than or equal to (≥)40 percent (%), MAD: ≥ 40% to less than or equal to (≤) 90%"
+NCT05668741,Exclusion,History of uncontrolled asthma within a year prior to screening
+NCT05668741,Exclusion,History of solid organ or hematological transplantation
+NCT05668741,Exclusion,"Hepatic cirrhosis with portal hypertension, moderate hepatic impairment (Child Pugh Score 7 to 9), or severe hepatic impairment (Child Pugh Score 10 to 15)"
+NCT05668741,Exclusion,Arterial oxygen saturation on room air less than (<) 94% at screening
+NCT05422222,Inclusion,Participants with stable CF and at least 1 TCR mutation (including F508del) in the CFTR gene
+NCT05422222,Exclusion,"History of solid organ, hematological transplantation, or cancer"
+NCT05422222,Exclusion,"Hepatic cirrhosis with portal hypertension, moderate hepatic impairment (Child Pugh Score 7 to 9), or severe hepatic impairment (Child Pugh Score 10 to 15)"
+NCT05422222,Exclusion,Lung infection with organisms associated with a more rapid decline in pulmonary status
+NCT06981091,Inclusion,Male or female paticipants aged 18-85 years (inclusive) ;
+NCT06981091,Inclusion,"Chest HRCT shows bronchiectasis affecting one or more lobes, and the condition is clinically diagnosed as non-cystic fibrosis bronchiectasis"
+NCT06981091,Inclusion,"Based on medical history and the determination of the investigator , participants have at least 2 documented pulmonary exacerbations in the past 12 months before Screening;"
+NCT06981091,Inclusion,Are current sputum producers with a history of chronic expectoration and able to provide a spontaneous sputum sample at screening visit (as described by the patient) ;
+NCT06981091,Inclusion,The body mass index (BMI) is ≥18 kg/m2 at screening;
+NCT06981091,Exclusion,Have a primary diagnosis of chronic obstructive pulmonary disease (COPD) or asthma
+NCT06981091,Exclusion,"Have bronchiectasis due to cystic fibrosis (CF), hypogammaglobulinemia, common variable immunodeficiency, or alpha1-antitrypsin deficiency"
+NCT06981091,Exclusion,"Are currently being treated for a nontuberculous mycobacterial lung infection, allergic bronchopulmonary aspergillosis, or tuberculosis"
+NCT06981091,Exclusion,"Have any acute infections, (including respiratory infections)"
+NCT06981091,Exclusion,Patients who have previously received therapy with DPP1 inhibitors of the same class
+NCT06413368,Inclusion,Age between 1-18 years
+NCT06413368,Inclusion,Proven diagnosis of Cystic Fibrosis (via genetic testing or sweat chloride testing)
+NCT06413368,Inclusion,Proven diagnosis of Chronic constipation (Bristol stool scale rating of < 3 while on stable conventional therapy regimen)
+NCT06413368,Inclusion,"On stable (no medication changes or dose adjustments) conventional constipation medication regimen for chronic constipation (stool softeners, stimulant laxatives, dietary interventions) for at least 4 weeks."
+NCT06413368,Exclusion,"Uncontrolled fat-soluble vitamin deficiency (Vitamin A, E, D, or K)"
+NCT06413368,Exclusion,Adequately treated chronic constipation on conventional regimen (Bristol stool scale rating of > 3)

@@ -1,0 +1,92 @@
+nct_id,Type,Criterion
+NCT07270172,Inclusion,"Male or female persons ≥40 years old with T1D (diagnosis before age 30 with insulin from onset or if diagnosis after 30 years of age insulin from onset and DKA or positive autoantibodies (in accordance with local guidelines), or confirmed, at the investigator's discretion by the available medical records) during >10 years."
+NCT07270172,Inclusion,"Presence of chronic kidney disease (UACR >30 mg/g or eGFR < 60 ml/min/1.73 m2) OR history of ischemic heart disease (previous myocardial infarction, stroke or angina) OR history of heart failure OR obesity grade 2 and 3 (BMI>35 kg/m2) OR 5-year CVD risk >10% according to Steno Type 1 Risk Engine."
+NCT07270172,Inclusion,"Fertile females must use highly efficient chemical, hormonal and mechanical contraceptives during the whole study and at least 2 months after cessation of study drug. The following contraceptive methods are approved: IUD or hormonal contraception that inhibits ovulation, i.e. pills, implantations, transdermal patches, vaginal ring or depot injection. Alternatively, be in menopause (i.e. must not have had regular menstrual bleeding for at least one year), have undergone bilateral oophorectomy or have been surgically sterilized or hysterectomised at least 12 months prior to screening."
+NCT07270172,Exclusion,"Type 2 Diabetes, Maturity-onset diabetes of the young (MODY), secondary diabetes."
+NCT07270172,Exclusion,History of pancreatitis.
+NCT07270172,Exclusion,Body mass index < 18.5 kg/m2
+NCT07270172,Exclusion,"Females of childbearing potential who are pregnant, breast-feeding, intend to become pregnant or are not using adequate contraceptive methods."
+NCT07270172,Exclusion,Known or suspected abuse of alcohol or recreational drugs.
+NCT07270172,Exclusion,Participant in another drug-intervention study.
+NCT07270172,Exclusion,Chronic Kidney Disease stage 5.
+NCT07242664,Inclusion,18-64 years of age
+NCT07242664,Inclusion,HbA1c <= 9.0%.
+NCT07242664,Inclusion,Body Mass Index (BMI) between 18.5 and 29.0 kg/m^2
+NCT07242664,Inclusion,"treated with a stable insulin regimen for at least 2 months, in a dose > 0.2 and < 1.2 U/kg/day"
+NCT07242664,Exclusion,blood pressure outside the range 90 to 140 mmHg (systolic) or 50 to 99 mmHg (diastolic)
+NCT07242664,Exclusion,clinically significant concomitant diseases
+NCT07242664,Exclusion,recurrent severe hypoglycemia (more than 1 severe hypoglycemic episode requiring assistance from another person within 180 days before screening)
+NCT07242664,Exclusion,hypoglycemia unawareness
+NCT07242664,Exclusion,estimated glomerular filtration rate (eGFR) <60.0 mL/min/1.73 m2
+NCT07199946,Inclusion,Type 1 diabetes according to the ADA classification within the previous 3 months at the time of screening
+NCT07199946,Inclusion,Age 4.00 -9.99 years at Diagnosis of Type 1 diabetes
+NCT07199946,Inclusion,Fasting C-peptide >0.12 nmol/ml
+NCT07199946,Inclusion,"Elevated levels of any diabetes-related antibody/ies (eg GADA, IAA, IA-2A, ZnT8A ) is/are present."
+NCT07199946,Exclusion,Cardiac disease/ problems
+NCT07199946,Exclusion,Abnormal ECG
+NCT07199946,Exclusion,history of abnormal blood pressure
+NCT07199946,Exclusion,Previous or current treatment with immunosuppressant therapy (although topical or inhaled steroids are accepted)
+NCT07199946,Exclusion,Continuous treatment with any inflammatory drug (sporadic treatment e.g. because of headache or in connection with fever a few days will be accepted)
+NCT07199946,Exclusion,Treatment with any oral or injected anti-diabetic medications other than insulin
+NCT07199946,Exclusion,A history of anaemia or significantly abnormal haematology results at screening
+NCT07199946,Exclusion,Participation in other clinical trials with a new chemical entity within the previous 3 months
+NCT07199946,Exclusion,Inability or unwillingness to comply with the provisions of this protocol
+NCT07199946,Exclusion,A significant illness other than diabetes within 2 weeks prior to first dosing. However treated celiac disease and hypothyroidism with adequate treatment will be accepted.
+NCT07160816,Inclusion,The decision to initiate treatment with commercially available insulin icodec has been made by the participant/legally acceptable representative (LAR) and the treating physician before and independently from the decision to include the participant in this study.
+NCT07160816,Inclusion,"Male or female, age greater than or equal to (≥) 18 years at the time of signing informed consent."
+NCT07160816,Inclusion,Diagnosed with T1D ≥ 1 year before signing informed consent.
+NCT07160816,Inclusion,Treated with multiple daily insulin injections (daily basal insulin analogue and bolus insulin analogue regimen) ≥ 6 months before signing informed consent.
+NCT07160816,Inclusion,Available HbA1c value less than or equal to (≤) 90 days prior to the 'Initiation visit' (V1) or HbA1c measurement taken in relation with the 'Initiation visit' (V1) if in line with local clinical practice.
+NCT07160816,Inclusion,Treatment naïve to once-weekly insulin prior to the 'Initiation Visit' (V1).
+NCT07160816,Exclusion Criteria,Treatment with any investigational drug within 30 days prior to enrolment into the study.
+NCT07160816,Exclusion Criteria,"Mental incapacity, unwillingness or language barriers precluding adequate understanding or cooperation."
+NCT07159282,Inclusion,The potential subject must be at least 18 years of age or older.
+NCT07159282,Inclusion,The potential subject must have a diagnosis of type 1 or 2 Diabetes mellitus.
+NCT07159282,Inclusion,"If the potential subject has two or more ulcers, the target ulcer must be the same ulcer treated in the CAMPX study."
+NCT07159282,Inclusion,The potential subject must consent to using the prescribed offloading method for the duration of the study.
+NCT07159282,Inclusion,The potential subject must agree to attend the weekly study visits required by the protocol.
+NCT07159282,Inclusion,The potential subject must be willing and able to participate in the informed consent process.
+NCT07159282,Inclusion,The potential subject must have participated in the CAMPX trial in the SOC only arm and NOT achieved complete closure by the 12-week endpoint.
+NCT07159282,Exclusion,The potential subject is known to have a life expectancy of < 6 months.
+NCT07159282,Exclusion,The potential subject's target ulcer is not secondary to diabetes.
+NCT07159282,Exclusion,The target ulcer is infected or there is cellulitis in the surrounding skin.
+NCT07159282,Exclusion,The target ulcer exposes tendon or bone.
+NCT07159282,Exclusion,There is evidence of osteomyelitis complicating the target ulcer.
+NCT07159282,Exclusion,There is an infection in the target ulcer or in a remote location that requires systemic antibiotic therapy.
+NCT07159282,Exclusion,"The potential subject is receiving immunosuppressants (including systemic corticosteroids at doses greater than 10 mg of prednisone per day or equivalent) or cytotoxic chemotherapy or is taking medications that the PI believes will interfere with wound healing (e.g., biologics)."
+NCT07159282,Exclusion,The potential subject has applied topical steroids to the ulcer surface within one month of initial screening.
+NCT07159282,Exclusion,The potential subject with a previous partial amputation on the affected foot that results in a deformity that impedes proper offloading of the target ulcer.
+NCT07159282,Exclusion,The potential subject has glycated hemoglobin (HbA1c) greater than or equal to 12% within 3 months of the initial screening visit.
+NCT07159282,Exclusion,"The potential subject has an acute Charcot foot, or an inactive Charcot foot, which impedes proper offloading of the target ulcer."
+NCT07159282,Exclusion,The potential subject is a woman who is pregnant or considering becoming pregnant within the next 6 months.
+NCT07159282,Exclusion,The potential subject has end stage renal disease requiring dialysis.
+NCT07159282,Exclusion,The potential subject has a malnutrition indicator score <17 as measured on the Mini Nutritional Assessment.
+NCT07076199,Inclusion,Diagnosed with type 1 diabetes mellitus greater than or equal to (≥) 1 year before screening.
+NCT07076199,Inclusion,Treated with multiple daily insulin injections (daily basal insulin analogue and bolus insulin analogue regimen) ≥ 6 months before screening.
+NCT07076199,Inclusion,"HbA1c from 7.0-10.0 percentage (%) (53.0-85.8 millimoles per mole (mmol/mol)), both inclusive, at screening confirmed by central laboratory analysis."
+NCT07076199,Exclusion,Known or suspected hypersensitivity to study intervention(s) or related products.
+NCT07076199,Exclusion,Previous participation in this study. Participation is defined as signed informed consent.
+NCT07076199,Exclusion,"Female who is pregnant, breast-feeding or intends to become pregnant or is of childbearing potential and not using adequate contraceptive method."
+NCT07076199,Exclusion,"Exposure to an investigational medicinal product within 90 days or 5 half-lives of the investigational medicinal product (if known), whichever is longer, before screening."
+NCT07076199,Exclusion,"Any condition, except for conditions associated with type 1 diabetes mellitus, which in the investigator's opinion might jeopardise participant's safety or compliance with the protocol."
+NCT07076199,Exclusion,"Anticipated initiation or anticipated change in concomitant medications (for more than 15 consecutive days) known to affect weight or glucose metabolism (e.g., treatment with thyroid hormones, or systemic corticosteroids)."
+NCT07076199,Exclusion,Known hypoglycaemic unawareness as indicated by the Investigator according to Clarke's questionnaire question.
+NCT07076199,Exclusion,Recurrent severe hypoglycaemic episodes within the last year as judged by the investigator.
+NCT06962280,Iclusion,Have type 1 diabetes and on insulin treatment for at least one year prior to screening
+NCT06962280,Iclusion,"Have an HbA1c value of 7.0% to 10.5% inclusive, at screening"
+NCT06962280,Iclusion,Have a body mass index (BMI) of ≥25 kilograms per square meter (kg/m2) at screening
+NCT06962280,Iclusion,Are of stable weight for at least 90 days prior to screening and agree to not start an intensive diet or exercise program during the study
+NCT06962280,Exclusion,Have experienced two or more events requiring hospitalization due to poor glucose control (hyperglycemia or (diabetic ketoacidosis (DKA)) during the period of 180 days prior to screening and until randomization.
+NCT06962280,Exclusion,Have experienced one or more events of severe hypoglycemia during the period of 90 days prior to screening and until randomization.
+NCT06962280,Exclusion,Are currently receiving or planning to receive treatment for diabetic retinopathy and/or macular edema
+NCT06962280,Exclusion,Have had chronic or acute pancreatitis
+NCT06962280,Exclusion,"Have used any weight loss drugs or alternative remedies, including herbal or nutritional supplements, within 90 days prior to screening"
+NCT06914895,Inclusion,Have type 1 diabetes and on insulin treatment for at least one year prior to screening
+NCT06914895,Inclusion,"Have an HbA1c value of 7.0% to 10.5% inclusive, at screening"
+NCT06914895,Inclusion,Have a body mass index (BMI) of ≥25 kilograms per square meter (kg/m2) at screening
+NCT06914895,Inclusion,Are of stable weight for at least 90 days prior to screening and agree to not start an intensive diet or exercise program during the study
+NCT06914895,Exclusion,Have experienced two or more events requiring hospitalization due to poor glucose control (hyperglycemia or (diabetic ketoacidosis (DKA)) during the period of 180 days prior to screening and until randomization.
+NCT06914895,Exclusion,Have experienced one or more events of severe hypoglycemia during the period of 90 days prior to screening and until randomization.
+NCT06914895,Exclusion,Are currently receiving or planning to receive treatment for diabetic retinopathy and/or macular edema
+NCT06914895,Exclusion,Have had chronic or acute pancreatitis
+NCT06914895,Exclusion,"Have used any weight loss drugs or alternative remedies, including herbal or nutritional supplements, within 90 days prior to screening"

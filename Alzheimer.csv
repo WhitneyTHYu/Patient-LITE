@@ -1,0 +1,115 @@
+nct_id,Type,Criterion
+NCT07170150,Inclusion,"Evidence of AD pathological process, as confirmed on amyloid PET scan."
+NCT07170150,Inclusion,"Probable AD dementia or MCI due to AD, also known as an Alzheimer's clinical syndrome clinical Stage 3 or Stage 4"
+NCT07170150,Inclusion,Screening MMSE score ≥ 22 and CDR-GS of 0.5 or 1.0
+NCT07170150,Inclusion,Participant- and/or Informant-reported history of cognitive decline with gradual onset and progression over the last 1 year before screening
+NCT07170150,Inclusion,A Repeatable Battery for the Assessment of Neuropsychological Status Delayed Memory Index (RBANS DMI) score of 85 or order
+NCT07170150,Exclusion,History or presence of clinically significant cerebrovascular disease
+NCT07170150,Exclusion,"History of severe, clinically significant (persistent neurologic deficit or structural brain damage) central nervous system (CNS) trauma"
+NCT07170150,Exclusion,History or presence of clinically significant intracranial mass
+NCT07170150,Exclusion,MRI evidence of significant cerebral abnormalities or inability to tolerate MRI procedures or contraindication to MRI
+NCT06976203,Inclusion,"Participants must have a confirmed diagnosis of Alzheimer's disease (AD), specifically at the mild (stage 4) or moderate (stage 5) dementia stages, as defined by the National Institute on Aging and Alzheimer's Association (NIA-AA) core clinical criteria. The diagnosis of AD pathology must be confirmed through the 2024 revised NIA-AA Workgroup criteria using a stepwise diagnostic approach."
+NCT06976203,Inclusion,"Participants must have an Mini-Mental State Examination (MMSE) score ranging from 12 through 22, inclusive, at the time of screening."
+NCT06976203,Inclusion,"Participants must have a designated caregiver who maintains adequate contact (around 10 hours per week or more) and is willing to attend all study visits. The caregiver must also be responsible for reporting on the participant's condition, overseeing medication compliance, and consenting to their involvement in both their own and the participant's study-related activities."
+NCT06976203,Inclusion,"Participants on acetyl choline esterase inhibitors (AChEIs) and/or memantine, must have been on a stable dosage for at least 12 weeks prior to screening, and agree to maintain this stable dose for the study duration."
+NCT06976203,Exclusion,"Participants must not have any primary psychiatric diagnoses such as major depression, schizoaffective disorder, or bipolar disorder, and those with severe psychiatric symptoms that could complicate the interpretation of treatment effects, impair cognitive assessment, or impact study completion."
+NCT06976203,Exclusion,"Participants must not have a history of schizophrenia or other chronic psychosis, as well as those who have previously been exposed to KarXT or are currently undergoing treatment with disease-modifying anti-amyloid therapies for AD within the past 6 months prior to screening."
+NCT06052163,Inclusion,Mild cognitive impairment or mild dementia due to Alzheimer's disease.
+NCT06052163,Inclusion,Alzheimer's disease medications are planned to remain stable throughout.
+NCT06052163,Exclusion,Clinically significant abnormalities in screening laboratory tests
+NCT06052163,Exclusion,Chronic liver disease
+NCT06052163,Exclusion,Renal insufficiency
+NCT06052163,Exclusion,Poorly managed hypertension
+NCT07033494,Inclusion,Has mild cognitive impairment (MCI) or mild dementia due to Alzheimer's Disease (AD)
+NCT07033494,Inclusion,Has a designated study partner who can fulfill the requirements of this study
+NCT07033494,Exclusion,Has a known history of stroke or cerebrovascular disease
+NCT07033494,Exclusion,Has diagnosis of a clinically relevant central nervous system disease other than AD or other condition that negatively impacts cognition or cognitive status chronically
+NCT07033494,Exclusion,Has structural brain disease
+NCT07033494,Exclusion,Has a history of seizures or epilepsy within 5 years before screening
+NCT07033494,Exclusion,"Has any other major central nervous system trauma, or infections that affect brain function"
+NCT07033494,Exclusion,Has major medical illness or unstable medical condition within 3 months before screening
+NCT07033494,Exclusion,"Has a severe, acute, or chronic medical or psychiatric condition or laboratory abnormality"
+NCT07033494,Exclusion,"Has any immunological disease, which is not adequately controlled, or which requires treatment with biologics and/or immunosuppressants during the study"
+NCT07033494,Exclusion,Has a bleeding disorder that is not under adequate control
+NCT07033494,Exclusion,Has a history of malignancy occurring within 5 years of screening
+NCT07033494,Exclusion,Has a risk factor for corrected QT interval (QTc) prolongation
+NCT07033494,Exclusion,Has liver disease
+NCT07033494,Exclusion,"Is unwilling or unable to undergo computed tomography (CT), positron emission tomography (PET), or magnetic resonance imaging (MRI) scan"
+NCT07033494,Exclusion,Resides in a nursing home or assisted care facility with need for direct continuous medical care and nursing supervision
+NCT06159673,Inclusion,Is male or female and ≥55 and ≤95 years of age living in the community or in an institutionalized setting
+NCT06159673,Inclusion,Meets clinical criteria for possible or probable AD based on the 2011 National Institute on Aging-Alzheimer Association (NIA-AA) criteria
+NCT06159673,Inclusion,Meets the revised criteria for psychosis in major or mild neurocognitive disorder established by the International Psychogeriatrics Association (IPA)
+NCT06159673,Inclusion,"Has either blood-based biomarker or documented evidence (e.g. positron emission tomography, cerebrospinal fluid biomarker) indicating amyloid plaque deposition and neuropathologic change consistent with AD"
+NCT06159673,Inclusion,Has a prior magnetic resonance imaging or computed tomography scan of the brain that is consistent with the diagnosis of AD
+NCT06159673,Inclusion,Meets revised criteria for psychosis in major or mild neurocognitive disorder as per International Psychogeriatrics Association
+NCT06159673,Inclusion,MMSE score ≥6 and ≤24
+NCT06159673,Inclusion,Psychotic symptoms for at least 2 months
+NCT06159673,Inclusion,Lives in a stable place of residence and there are no plans to change living arrangements
+NCT06159673,Inclusion,Has a designated study partner/caregiver
+NCT06159673,Exclusion,"Is in hospice and receiving end-of-life palliative care, or has become bedridden"
+NCT06159673,Exclusion,Requires skilled nursing care
+NCT06159673,Exclusion,"Psychotic symptoms that are primarily attributable to delirium, substance abuse, or a medical or psychiatric condition other than dementia"
+NCT06159673,Exclusion,"Known history of cerebral amyloid angiopathy, epilepsy, central nervous system neoplasm, or unexplained syncope"
+NCT06159673,Exclusion,Atrial fibrillation
+NCT06159673,Exclusion,Symptomatic orthostatic hypotension
+NCT06159673,Exclusion,Treatment with anti-tau therapy or donanemab within 2 months prior to Screening
+NCT05040321,Inclusion,A man or a woman between the ages of 55 and 85 years (inclusive)
+NCT05040321,Inclusion,Meets National Institute on Aging-Alzheimer's Association (NIA-AA) clinical diagnostic criteria for AD dementia
+NCT05040321,Inclusion,Has evidence of AD pathological process by a positive amyloid assessment with cerebrospinal fluid (CSF) Aβ42
+NCT05040321,Inclusion,Has a Clinical Dementia Rating (CDR) global score of 0.5 or 1
+NCT05040321,Inclusion,Has a Mini-Mental State Exam (MMSE) Score of 18 to 26 (inclusive)
+NCT05040321,Inclusion,Has a 15-item Geriatric Depression Scale (GDS) score of < 6
+NCT05040321,Inclusion,Impaired memory performance below education adjusted cut-off score on the Logical Memory II subscale delayed paragraph recall (LM-IIa) of the Wechsler Memory Scale-Revised (WMS-R) (≥16 years: ≤8; 8-15 years: ≤4; 0-7 years: ≤2)
+NCT05040321,Inclusion,Has the availability of an informant (study partner) who has regular contact with the participant and knows him/her well
+NCT05040321,Exclusion,"Neurologic diseases: Any significant neurologic disease other than AD that can lead to cognitive impairment, such as Parkinson's disease, vascular dementia, dementia with Lewy bodies, frontotemporal dementia, Huntington's disease, normal pressure hydrocephalus, corticobasal syndrome, brain tumor, seizure disorder, subdural hematoma (within the last 1 year), multiple sclerosis, or history of significant head trauma (e.g. loss of consciousness for 30 minutes or more) followed by persistent neurologic deficits or known structural brain abnormalities."
+NCT05040321,Exclusion,"Neuroimaging: Baseline or prior magnetic resonance imaging (MRI) scans with evidence of cortical stroke or hemorrhage, strategically located lacunar stroke (ex: left thalamus), or severe small vessel ischemic disease."
+NCT05040321,Exclusion,History of alcohol or substance use disorder or dependence (DSM V criteria) within the last 2 years.
+NCT05040321,Exclusion,"Psychiatric disorder: Major depressive disorder (within the last 1 year), bipolar disorder, schizophrenia (DSM V criteria), or current major psychotic symptoms or behavioral problems that could interfere with study procedures."
+NCT05040321,Exclusion,"Any significant systemic illness or unstable medical condition, which could obfuscate cognitive aging or neurodegenerative trajectories or affect valid cognitive and self-report measurements."
+NCT05040321,Exclusion,"Niacin or dietary supplements containing nicotinamide mononucleotide (NMN) or nicotinamide riboside (NR); antipsychotic medications, antidepressant medications with anticholinergic side effects. Washout from psychoactive medications for at least 8 weeks before screening."
+NCT05040321,Exclusion,Current use of anticoagulants; significant back or spine disease that would make a lumbar puncture difficult or unsafe as determined by a clinician.
+NCT05040321,Exclusion,Other laboratory abnormalities: Has AST or ALT > 3 times the upper limit of normal; serum creatinine > 2.0 mg/d; HbA1C > 8.5%
+NCT06850597,Inclusion,Men and women aged 55-90 years.
+NCT06850597,Inclusion,Patients diagnosed with mild cognitive impairment in Alzheimer's disease and mild to moderate Alzheimer's dementia (MMSE >16) diagnosed based on NIA-AA criteria.
+NCT06850597,Inclusion,MMSE score from 17 to 30 points.
+NCT06850597,Inclusion,CDR score from 0.5 to 2.
+NCT06850597,Inclusion,The patient has a close person/de facto guardian who agrees to help the patient during participation in the study.
+NCT06850597,Inclusion,At least 6 years of education.
+NCT06850597,Exclusion,Patients who cannot read or write.
+NCT06850597,Exclusion,"Pregnant, breastfeeding or childbearing women who do not use effective contraception (hormonal contraception, surgical sterilization, intrauterine device, condom in combination with vaginal spermicide)."
+NCT06850597,Exclusion,"Liver failure (i.e. cirrhosis or active liver disease), diagnosed acute or chronic hepatitis regardless of cause."
+NCT06850597,Exclusion,Chronic kidney disease with GFR below < 60 ml/min/m2
+NCT06850597,Exclusion,Abnormal liver parameters: ALAT exceeding > 2 times the upper limit of normal
+NCT06850597,Exclusion,"Leukopenia (<4000/mm3), granulocytopenia (<1500/mm3) or lymphopenia (<1000/mm3) regardless of the cause."
+NCT06850597,Exclusion,Severe agitation.
+NCT06850597,Exclusion,Mental retardation.
+NCT06850597,Exclusion,Delirium diagnosed according to DSM-5 criteria.
+NCT06850597,Exclusion,Use of benzodiazepines or barbiturates within 1 week prior to screening.
+NCT06850597,Exclusion,Pharmacological immunosuppression.
+NCT06850597,Exclusion,Alcoholism or drug addiction as defined by DSM-5 within the past 5 years (dependent for more than 1 year and or in remission for less than 3 years).
+NCT06850597,Exclusion,"Thyroid hormone therapy initiated, discontinued, or modified within 3 months prior to screening visit."
+NCT06850597,Exclusion,"Menopausal hormone replacement therapy initiated, discontinued, or modified within 3 months prior to screening visit."
+NCT06850597,Exclusion,Use of prohibited drugs in the study: Antineoplastic drugs (no studies). Immunosuppressive drugs (no studies). Corticosteroids (impact on project results). Live attenuated vaccines (no studies). Inactivated vaccines may be used. Benzodiazepines (impact on assessed endpoints). Other ethyl esters used orally or topically.
+NCT04629495,Inclusion,Both genders and all ethnic groups
+NCT04629495,Inclusion,Ages 55 to 89 years
+NCT04629495,Inclusion,"Diagnosis of MCI or AD (Mini Mental Status Examination (MMSE): 18-30; Clinical Dementia Rating Scale (CDR) = 0.5 - 1; California Verbal Learning Test III (CVLT-III) Delayed Recall ≤16% based on age-adjusted norms, clinician approval)"
+NCT04629495,Inclusion,Amyloid positivity based on Amyloid PET Imaging
+NCT04629495,Inclusion,"Stable dose of AD medications (Donepezil, rivastigmine, Memantine, galantamine) for at least three months is allowed"
+NCT04629495,Exclusion,Diabetes (HBA1c≥6.5% or antidiabetic medications)
+NCT04629495,Exclusion,History of skin ulcers or poor wound healing
+NCT04629495,Exclusion,Current tobacco or illicit drug use or alcohol abuse
+NCT04629495,Exclusion,Use of anti-platelet or anti-coagulant medications other than aspirin
+NCT04629495,Exclusion,Current medications that affect cytochrome 450 3A4 (CYP3A4)
+NCT04629495,Exclusion,Immunosuppressant therapy within the last year
+NCT04629495,Exclusion,Chemotherapy or radiation treatment within the last year
+NCT04629495,Exclusion,Current or chronic history of liver or kidney disease or known hepatic or biliary abnormalities
+NCT04629495,Exclusion,Untreated hypertriglyceridemia (fasting triglycerides < 250 mg/dl)
+NCT04629495,Exclusion,Current or chronic history of pulmonary disease or abnormal pulse oximetry (<90%)
+NCT04629495,Exclusion,Chronic heart failure
+NCT04629495,Exclusion,Pregnancy or lactation
+NCT04629495,Exclusion,"Recent history (past six months) of myocardial infarction, active coronary artery disease, intestinal disorders, stroke, or transient ischemic attack"
+NCT04629495,Exclusion,Significant neurological conditions other than AD or MCI
+NCT04629495,Exclusion,"Poorly controlled blood pressure (systolic BP>160, diastolic BP>90 mmHg - based on two readings)"
+NCT04629495,Exclusion,"Active inflammatory, COVID-19, autoimmune, infectious, hepatic, gastrointestinal, malignant, and/or severe mental illness"
+NCT04629495,Exclusion,"History of, or MRI, or CT positive for, any space occupying lesion, including mass effect or abnormal intracranial pressure, which would indicate contraindications to lumbar puncture"
+NCT04629495,Exclusion,Organ transplant recipients

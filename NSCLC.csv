@@ -1,0 +1,119 @@
+nct_id,Type,Criterion
+NCT06576635,Inclusion,Age ≥ 18 years of age at time of consent
+NCT06576635,Inclusion,ECOG performance status score of ≤2
+NCT06576635,Inclusion,Advanced non-small cell lung cancer to meet histologically confirmed Stage IV NSCLC documented by biopsy.
+NCT06576635,Inclusion,Patient has received at least 1 prior line of systemic therapy for Stage IV NSCLC.
+NCT06576635,Inclusion,Must have not received any cancer treatment for at least 2 weeks.
+NCT06576635,Inclusion,Must be a candidate for small molecule drug treatment.
+NCT06576635,Inclusion,Women of childbearing potential must not be pregnant or breast-feeding.
+NCT06576635,Exclusion,Active infection requiring systemic therapy within 7 days of enrollment.
+NCT06576635,Exclusion,"Uncontrolled HIV/AIDS or active viral hepatitis (e.g., HBV, HCV)"
+NCT06576635,Exclusion,ECOG performance status score >2
+NCT06576635,Exclusion,"Clinically significant lung, heart, or autoimmune disease"
+NCT06576635,Exclusion,Life expectancy <12 weeks
+NCT06576635,Exclusion,Prior solid organ or bone marrow transplant
+NCT06576635,Exclusion,"Antibiotics, vaccines or other type of surgery within 4 weeks prior intervention treatment"
+NCT06576635,Exclusion,Pregnant or nursing
+NCT04995523,Inclusion,Aged 18 or above
+NCT04995523,Inclusion,Unresectable stage III or stage IV squamous or non-squamous NSCLC not amenable to curative surgery or radiation.
+NCT04995523,Inclusion,Documented PD-L1 expression by PD-L1 IHC per local report.
+NCT04995523,Inclusion,Confirmed progression during treatment with a CPI-including regimen.
+NCT04995523,Inclusion,ECOG performance status of 0 or 1 at enrolment.
+NCT04995523,Inclusion,Life expectancy of ≥ 12 weeks at enrolment.
+NCT04995523,Inclusion,Have at least 1 measurable lesion per RECIST v1.1.
+NCT04995523,Inclusion,"Adequate bone marrow, liver and kidney function"
+NCT04995523,Exclusion,Sensitizing epidermal growth factor receptor (EGFR) mutations or anaplastic lymphoma kinase (ALK) fusion
+NCT04995523,Exclusion,"Documented test result for any other known genomic alteration for which a targeted therapy is approved in first line per local standard of care (e.g. ROS1, NTRK fusions, BRAF, V600E mutation)"
+NCT04995523,Exclusion,Previous treatment with an anti-TIGIT therapy
+NCT04995523,Exclusion,Primary or secondary resistance after treatment with 2 or more regiments including a CPI.
+NCT07134413,Inclusion,Patients aged ≥18
+NCT07134413,Inclusion,Histologically or cytologically confirmed stage III or IV non-squamous non-small cell lung cancer (NSCLC) per the American Joint Committee on Cancer (AJCC) 8th Edition staging system
+NCT07134413,Inclusion,at least one measurable lesion according to RECIST 1.1 criteria
+NCT07134413,Inclusion,ECOG PS 0-1.
+NCT07134413,Inclusion,Subjects must have adequately documented disease progression following prior treatment with PD-1/PD-L1 inhibitors (administered as monotherapy or in combination with chemotherapy)
+NCT07134413,Inclusion,The most recent tumor tissue sample prior to the first dose of the study drug demonstrated PD-L1 TPS <1% 9. appropriate organ function
+NCT07134413,Exclusion,"Known presence of sensitizing mutations in EGFR, EGFR exon 20 insertions, ALK fusions, ROS1 fusions, RET fusions, NTRK fusions, BRAF V600E mutations, MET exon 14 skipping mutations, or HER2 sensitizing mutations."
+NCT07134413,Exclusion,"Patients with symptomatic, neurologically unstable central nervous system (CNS) metastases, or CNS diseases that require increased steroid doses to control"
+NCT07134413,Exclusion,Prior lines of systemic anti-tumor therapy ≥ 2.
+NCT06496009,Inclusion,Aged 18-80 years;
+NCT06496009,Inclusion,Wild-type EGFR/ALK;
+NCT06496009,Inclusion,"Patients with locally advanced (stage IIIb/IIIc), metastatic, or recurrent (stage IV) NSCLC confirmed by histology or cytology, who are not eligible for curative surgery and cannot undergo definitive radiotherapy/chemotherapy, according to the 8th edition of the TNM staging classification by the International Association for the Study of Lung Cancer and the American Joint Committee on Cancer;"
+NCT06496009,Inclusion,PD-L1 negative；
+NCT06496009,Inclusion,Patients receiving first-line immunotherapy (such as PD-1/PD-L1 inhibitors).
+NCT06074588,Inclusion,Histologically- or cytologically-documented advanced (Stage III not eligible for resection or curative radiation) or metastatic non-squamous NSCLC with specific mutations.
+NCT06074588,Inclusion,Documentation of locally assessed radiological disease progression while on or after last treatment based on Response Evaluation Criteria in Solid Tumors Version (RECIST) 1.1.
+NCT06074588,Inclusion,Measurable disease per RECIST 1.1 as assessed by the local site investigator.
+NCT06074588,Inclusion,"Archival tumor tissue sample or newly obtained core, incisional, or excisional biopsy of a tumor lesion not previously irradiated has been provided"
+NCT06074588,Inclusion,Have an ECOG performance status of 0 or 1 within 3 days before randomization.
+NCT06074588,Exclusion,Has predominantly squamous cell histology NSCLC.
+NCT06074588,Exclusion,Has mixed tumor(s) with small cell elements.
+NCT06074588,Exclusion,Has active inflammatory bowel disease requiring immunosuppressive medication or previous history of inflammatory bowel disease.
+NCT06074588,Exclusion,Has Grade ≥2 peripheral neuropathy.
+NCT06074588,Exclusion,"Has history of documented severe dry eye syndrome, severe Meibomian gland disease and/or blepharitis, or corneal disease that prevents/delays corneal healing."
+NCT06074588,Exclusion,"Has uncontrolled, significant cardiovascular disease or cerebrovascular disease."
+NCT06074588,Exclusion,"Has an EGFR T790M mutation and has not received a third generation EGFR TKI (eg, osimertinib)."
+NCT06074588,Exclusion,Received prior systemic anticancer therapy including investigational agents within 4 weeks or 5 half-lives (whichever is shorter) before randomization.
+NCT06074588,Exclusion,Received a live or live-attenuated vaccine within 30 days before the first dose of study intervention.
+NCT06074588,Exclusion,Completed palliative radiotherapy within 7 days of the first dose. Participants must have recovered from all radiation-related toxicities and not require corticosteroids.
+NCT06074588,Exclusion,Received radiation therapy to the lung that is >30 Gy within 6 months of the first dose of study intervention.
+NCT06074588,Exclusion,Received prior treatment with a trophoblast cell-surface antigen 2 (TROP2)-targeted antibody-drug conjugate (ADC).
+NCT06074588,Exclusion,Received prior treatment with a topoisomerase I-containing ADC.
+NCT06074588,Exclusion,Has received an investigational agent or has used an investigational device within 4 weeks prior to study intervention administration.
+NCT06074588,Exclusion,Known additional malignancy that is progressing or has required active treatment within the past 3 years.
+NCT06074588,Exclusion,Active infection requiring systemic therapy.
+NCT06074588,Exclusion,History of noninfectious pneumonitis/ILD that required steroids or has current pneumonitis/ILD.
+NCT06074588,Exclusion,"Has known active central nervous system metastases and/or carcinomatous meningitis. Participants with previously treated brain metastases may participate provided they are clinically stable, radiologically stable for at least 4 weeks and do not require glucocorticoids for at least 14 days prior to randomization."
+NCT06074588,Exclusion,HIV-infected participants with a history of Kaposi's sarcoma and/or Multicentric Castleman's Disease.
+NCT06074588,Exclusion,Concurrent active Hepatitis B (defined as HBsAg positive and/or detectable HBV DNA) and Hepatitis C virus (defined as anti-HCV Ab positive and detectable HCV RNA) infection.
+NCT06077760,Inclusion,"Has undergone margin negative, completely resected non-small cell lung cancer (NSCLC), and has pathological Stage II, IIIA, IIIB (N2) squamous or nonsquamous tumor, node, metastasis (TNM) staging per American Joint Committee on Cancer (AJCC) Eighth Edition guidelines."
+NCT06077760,Inclusion,Has no evidence of disease before randomization.
+NCT06077760,Inclusion,Has received at least one dose of adjuvant treatment with standard of care platinum doublet chemotherapy.
+NCT06077760,Inclusion,No more than 24 weeks have elapsed between surgical resection of curative intent and the first dose of pembrolizumab.
+NCT06077760,Inclusion,Participants who are hepatitis B surface antigen (HBsAg) positive are eligible if they have received hepatitis B virus (HBV) antiviral therapy for at least 4 weeks and have undetectable HBV viral load prior to randomization.
+NCT06077760,Inclusion,Participants with history of hepatitis C virus (HCV) infection are eligible if HCV viral load is undetectable at screening.
+NCT06077760,Inclusion,Human immunodeficiency virus (HIV)-infected participants must have well controlled HIV on anti-retroviral therapy (ART).
+NCT06077760,Exclusion,"Diagnosis of small cell lung cancer (SCLC) or, for mixed tumors, presence of small cell elements, or has a neuroendocrine tumor with large cell components or a sarcomatoid carcinoma."
+NCT06077760,Exclusion,HIV-infected participants with a history of Kaposi's sarcoma and/or Multicentric Castleman's Disease.
+NCT06077760,Exclusion,Received prior neoadjuvant therapy for their current NSCLC diagnosis.
+NCT06077760,Exclusion,Received or is a candidate to receive radiotherapy for their current NSCLC diagnosis.
+NCT06077760,Exclusion,"Received prior therapy with an anti-programmed cell death 1 protein (PD-1), anti-PD-ligand 1 (L1), or anti-PD-L2 agent, or with an agent directed to another stimulatory or coinhibitory T-cell receptor."
+NCT06077760,Exclusion,Received prior systemic anticancer therapy including investigational agents within 4 weeks before randomization.
+NCT06077760,Exclusion,Received a live or live-attenuated vaccine within 30 days before the first dose of study intervention. Administration of killed vaccines are allowed.
+NCT06077760,Exclusion,Has received an investigational agent or has used an investigational device within 4 weeks prior to study intervention administration.
+NCT06077760,Exclusion,Diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior to the first dose of study medication.
+NCT06077760,Exclusion,Known additional malignancy that is progressing or has required active treatment within the past 5 years.
+NCT06077760,Exclusion,"Active autoimmune disease that has required systemic treatment in the past 2 years. Replacement therapy (eg, thyroxine, insulin, or physiologic corticosteroid) is allowed."
+NCT06077760,Exclusion,History of (noninfectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease.
+NCT06077760,Exclusion,Active infection requiring systemic therapy.
+NCT07247227,Inclusion,Age ≥ 18 years.
+NCT07247227,Inclusion,Patients voluntarily join the study and sign an informed consent form for the study.
+NCT07247227,Inclusion,ECOG PS score 0-3
+NCT07247227,Inclusion,"Histologically documented, stage III, IV non-Small Cell Lung Cancer (according to version 8th of the International Association for the Study of Lung Cancer Staging Manual in Thoracic Oncology) and previously untreated systematically(excluding local therapy for local lesions or symptomatic relief, palliative radiotherapy, intervention, intrathecal injection, nerve block, etc.)."
+NCT07247227,Inclusion,Patients with stage III NSCLC who are not suitable for surgery at a multidisciplinary discussion or investigators' assessment.
+NCT07247227,Inclusion,Patients with at least one measurable target lesion by CT scan/MRI (RECISTv1.1).
+NCT07247227,Inclusion,"Interstitial pneumonia, drug-induced pneumonia, radiation pneumonitis requiring steroid therapy, or active pneumonia with clinical symptoms of grade 2, can be included after symptomatic treatment until recovery to grade 0-1."
+NCT07247227,Inclusion,Fertile men and women of childbearing age must agree to take effective contraceptive measures from signing the main informed consent until 180 days after the last dose of the study drug. Women of childbearing potential include premenopausal women and women within 2 years of menopause. Females of childbearing potential must have a negative pregnancy test ≤ 7 days prior to the first dose of study drug.
+NCT07247227,Exclusion,"All patients carry activating mutations of EGFR, ALK, ROS1, and RET."
+NCT07247227,Exclusion,Small cell lung cancer (including patients with mixed small cell lung cancer and non-small cell lung cancer).
+NCT07247227,Exclusion,Histopathologically or cytopathologically confirmed non-NSCLC.
+NCT07247227,Exclusion,Any prior treatment of antibody/drug that targets T-cell coregulatory proteins (not limited to CTLA-4 inhibitors or other agents targeting T cells).
+NCT07247227,Exclusion,"Any tumor history within the past 5 years prior to the start of treatment in this study (except cured cervical carcinoma in situ, cured basal cell carcinoma, and bladder epithelial tumors with surgical resection alone and at least 5 consecutive years of disease-free survival)."
+NCT07247227,Exclusion,"Patients with active, unstable systemic disease, active infection, uncontrolled hypertension, heart failure (NYHA class >= II), unstable angina pectoris, acute coronary syndrome, severe arrhythmia, severe liver, kidney, or metabolic diseases, HIV infection."
+NCT07247227,Exclusion,Pregnant or lactating women.
+NCT07247227,Exclusion,"Systemic anti-tumor therapy planned within 4 weeks before first-line treatment or during medication after enrollment, including cytotoxic therapy, signal transduction inhibitors, immunotherapy (with the exception of thymosin, lentinan, and other immunomodulator therapy)."
+NCT07247227,Exclusion,"Major surgical treatment, incisional biopsy, or significant traumatic injury within 28 days before 1st line therapy."
+NCT06623422,Inclusion,"Has histologically/cytologically confirmed diagnosis of previously untreated and pathologically confirmed resectable Stage II, IIIA, or IIIB (N2) non-small cell lung cancer (NSCLC) [American Joint Committee on Cancer (AJCC) 8th Edition]"
+NCT06623422,Inclusion,Has an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 within 7 days before the first dose of study intervention
+NCT06623422,Inclusion,Participants who have not achieved a pathological complete response (pCR) following completion of neoadjuvant chemotherapy and pembrolizumab followed by surgery will be eligible
+NCT06623422,Inclusion,"Confirmation that epidermal growth factor receptor (EGFR)-directed therapy is not indicated as primary therapy (documentation of absence of tumor-activating EGFR mutations [eg, DEL19 or L858R])"
+NCT06623422,Inclusion,Human immunodeficiency virus (HIV)-infected participants must have well controlled HIV on anti-retroviral therapy (ART)
+NCT06623422,Inclusion,Participants who are hepatitis B surface antigen (HBsAg) positive are eligible if they have received hepatitis B virus (HBV) antiviral therapy for at least 4 weeks and have undetectable HBV viral load prior to randomization
+NCT06623422,Inclusion,Participants with history of hepatitis C virus (HCV) infection are eligible if HCV viral load is undetectable at screening
+NCT06623422,Exclusion,"Diagnosis of SCLC or, for mixed tumors, presence of small cell elements, or has a neuroendocrine tumor with large-cell components, or a sarcomatoid carcinoma, or a pancoast tumor"
+NCT06623422,Exclusion,Documentation by local test report indicating presence of anaplastic lymphoma kinase (ALK) gene rearrangements
+NCT06623422,Exclusion,Received prior neoadjuvant therapy for their current NSCLC diagnosis
+NCT06623422,Exclusion,"Received prior therapy with an anti-programmed cell death 1 (PD-1), anti-programmed cell death ligand 1 (PD-L1), or anti-programmed cell-death ligand 2 (PD-L2) agent, or with an agent directed to another stimulatory or coinhibitory T-cell receptor (eg, cytotoxic T-lymphocyte-associated protein [CTLA-4], OX-40, CD137)"
+NCT06623422,Exclusion,Received prior systemic anticancer therapy including investigational agents other than what is specified in this protocol
+NCT06623422,Exclusion,Received prior treatment with a cancer vaccine
+NCT06623422,Exclusion,"Received prior radiotherapy within 2 weeks of start of study intervention, or has radiation-related toxicities, requiring corticosteroids"
+NCT06623422,Exclusion,Received a live or live-attenuated vaccine within 30 days before the first dose of study intervention

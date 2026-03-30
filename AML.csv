@@ -1,0 +1,133 @@
+nct_id,Type,Criterion
+NCT07211958,Inclusion,Participants must have newly diagnosed and previously untreated AML and be candidates for intensive chemotherapy.
+NCT07211958,Inclusion,Presence of an NPM1 mutation.
+NCT07211958,Inclusion,Eastern Cooperative Oncology Group performance status ≤2 (≤1 if >65 years old); Karnofsky or Lansky ≥40.
+NCT07211958,Inclusion,Have a life expectancy of ≥3 months as judged by the Investigator.
+NCT07211958,Inclusion,Negative serum pregnancy test.
+NCT07211958,Inclusion,"Adequate liver, kidney, and cardiac function."
+NCT07211958,Exclusion,Diagnosis of active acute promyelocytic leukemia.
+NCT07211958,Exclusion,Active central nervous system disease.
+NCT07211958,Exclusion,"Fridericia's corrected QT interval (QTcF) >450 milliseconds at screening, diagnosis or suspicion of Long QT syndrome or family history of Long QT syndrome."
+NCT07211958,Exclusion,Any gastrointestinal (GI) issue of the upper GI tract likely to affect oral drug absorption or ingestion.
+NCT07211958,Exclusion,Any concurrent malignancy requiring active therapy (except breast or prostate cancer stable on or responding to endocrine therapy).
+NCT07211958,Exclusion,Inability to swallow oral medication.
+NCT07211958,Exclusion,Pregnant or nursing females.
+NCT07211958,Exclusion,Participant has known active or chronic hepatitis B or active hepatitis C (HCV) infection or human immunodeficiency virus (HIV)-positive with detectable viral load.
+NCT06226571,Inclusion,"Established, pathologically confirmed diagnosis of AML by World Health Organization 2022 criteria."
+NCT06226571,Inclusion,Previously untreated AML and eligible to receive intensive chemotherapy.
+NCT06226571,Inclusion,"KMT2Ar, NPM1c, or NUP98r mutations identified by local laboratory prior to the first dose of SNDX-5613."
+NCT06226571,Inclusion,Eastern Cooperative Oncology Group performance status ≤2 and ≤1 if >65 years old .
+NCT06226571,Inclusion,"Adequate liver, kidney, and cardiac function."
+NCT06226571,Exclusion,Diagnosis of acute promyelocytic leukemia.
+NCT06226571,Exclusion,"Clinically active central nervous system leukemia (blasts detected in cerebrospinal fluid, radiographic or clinical signs and symptoms)."
+NCT06226571,Exclusion,"Fridericia's corrected QT interval (QTcF) >450 milliseconds (average of triplicate), diagnosis or suspicion of Long QT syndrome or family history of Long QT syndrome."
+NCT06226571,Exclusion,Any gastrointestinal issue of the upper gastrointestinal tract that might affect oral drug absorption or ingestion.
+NCT06226571,Exclusion,Cirrhosis with a Child-Pugh score of B or C.
+NCT06226571,Exclusion,"Any of the following within the 6 months prior to study entry: myocardial infarction, uncontrolled/unstable angina, congestive heart failure (New York Heart Association Classification Class ≥II), life-threatening, uncontrolled arrhythmia, cerebrovascular accident, or transient ischemic attack."
+NCT06226571,Exclusion,"Hepatitis B, Hepatitis C, or HIV-positive with detectable viral load."
+NCT06226571,Exclusion,"Documented active, uncontrolled infection."
+NCT06226571,Exclusion,Uncontrolled disseminated intravascular coagulation.
+NCT06226571,Exclusion,Lactating/breast feeding or pregnant.
+NCT06226571,Exclusion,"Use of prohibited concomitant chemotherapy, radiation therapy, or immunotherapy."
+NCT06226571,Exclusion,"Use of strong CYP3A4 inducers or inhibitors (except for Itraconazole, Ketoconazole, Posaconazole, or Voriconazole)."
+NCT06511882,Inclusion,Adults 18 years of age or older at the time of obtaining informed consent.
+NCT06511882,Inclusion,Diagnosed with Acute Myeloid Leukemia (AML) (non-M3) as defined by 2016 World Health Organization (WHO)
+NCT06511882,Inclusion,Eastern Cooperative Group (ECOG) performance status score ≤ 2
+NCT06511882,Inclusion,Currently on frontline therapy with HMA (azacitidine or decitabine)/VEN and achieved Complete Remission (CR)/Complete Remission with incomplete marrow recovery (CRi) with MRD negativity defined as < 0.1% by Multiparameter Flow Cytometry (MFC)
+NCT06511882,Inclusion,Within 12 months of starting HMA (azacitidine or decitabine)/VEN
+NCT06511882,Inclusion,Ineligible for or declined allogeneic hematopoietic cell transplantation (HCT)
+NCT06511882,Exclusion,"Use of cytotoxic chemotherapeutic agents, or experimental agents (agents that are not commercially available) for the treatment of AML within 28 days, or 5 half-lives, at the start of the study. Only patients who are receiving frontline HMA (azacitidine or decitabine)/VEN are potentially eligible, but if they had received a course of hydroxyurea prior to achieving CR/CRi, this is allowed."
+NCT06511882,Exclusion,"Any serious medical condition or uncontrolled current illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements or will place the subject at unacceptable risk if he/she participates in the study. Controlled infections or other medical conditions on long-term therapy is allowed."
+NCT06511882,Exclusion,Patients who harbored TP53 mutation at diagnosis
+NCT06511882,Exclusion,"AML with extramedullary involvement including central nervous system (CNS) involvement, myeloid sarcoma, and leukemia cutis requiring directed therapy at the time of enrollment."
+NCT06511882,Exclusion,Patient is pregnant.
+NCT06635681,Inclusion,Patients who meet AML according to WHO (2022) or AML and MDS/AML defined by ICC standards.
+NCT06635681,Inclusion,"Age ≥14 years old, ≤ 60 years old, male or female."
+NCT06635681,Inclusion,The physical status assessment (ECOG-PS) of the Eastern Oncology Collaboration group was 0-2 points.
+NCT06635681,Inclusion,"Fulfill the requirements of the following laboratory tests (performed within 7 days prior to treatment) :Total bilirubin ≤ 1.5 times the upper limit of normal value (same age);
+AST and ALT≤ 2.5 times the upper limit of normal value (same age);
+Blood creatinine < 2 times the upper limit of normal (same age);
+Myocardial enzymes < 2 times the upper limit of normal (same age);
+Left ventricular ejection fraction &gt;50% by measure of echocardiogram (ECHO). Informed consent must be signed before the commencement of all specific study procedures, and signed by the patient himself or his immediate family. Considering the patient&#39;s condition, if the patient&#39;s signature is not conducive to the treatment of the condition, the informed consent shall be signed by the legal guardian or the patient&#39;s immediate family."
+NCT06635681,Exclusion,Acute promyelocytic leukemia with PML-RARA fusion gene
+NCT06635681,Exclusion,Acute myeloid leukemia with BCR-ABL fusion gene
+NCT06635681,Exclusion,Treated patients (but can receive hydroxyurea or cytarabine to the lower tumor burden).
+NCT06635681,Exclusion,Concurrent malignant tumors of other organs (those requiring treatment).
+NCT06635681,Exclusion,"Active heart disease, defined as one or more of the following:A history of uncontrolled or symptomatic angina;
+Myocardial infarction less than 6 months after enrollment;
+Have a history of arrhythmia requiring drug treatment or severe clinical symptoms;
+Uncontrolled or symptomatic congestive heart failure (> NYHA level 2);
+Serious infectious diseases (uncured tuberculosis, pulmonary aspergillosis).
+Those who were not considered suitable for inclusion by the researchers."
+NCT05907057,Inclusion,Has untreated Acute Myeloid Leukemia (AML)
+NCT05907057,Inclusion,Have a documented IDH1 R132 gene-mutated disease
+NCT05907057,Inclusion,"Have at least one of the following making yourself ineligible for intensive chemotherapy (IC): 75 years or older, Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 2, or any comorbidity that the investigator judges to be incompatible with IC including but not limited to severe cardiac or pulmonary disorder, creatinine clearance less than 45 mL/minute, or bilirubin greater than 1.5 times the upper limit of normal"
+NCT05907057,Inclusion,Has adequate hepatic (liver) and renal (kidney) function
+NCT05907057,Inclusion,Female participants of reproductive potential must have a negative blood pregnancy test and must use effective contraception during treatment and for at least 6 months following treatment
+NCT05907057,Inclusion,Fertile male participants with female partners of reproductive potential must use effective contraception during treatment and for at least 3 months following treatment
+NCT05907057,Exclusion,"Has received any prior treatment for AML, with the exception of hydroxyurea or leukapheresis for white blood cell count control"
+NCT05907057,Exclusion,Has received prior treatment with an IDH1 inhibitor
+NCT05907057,Exclusion,Is a woman who is pregnant or breastfeeding
+NCT05907057,Exclusion,"Has an active, uncontrolled, systemic fungal, bacterial, or viral infection (including human immunodeficiency virus [HIV], active hepatitis B (HBV), or hepatitis C virus [HCV]) without improvement despite appropriate antibiotics, antiviral therapy, and/or other treatment"
+NCT05907057,Exclusion,"Has had significant active cardiac disease within 6 months prior to the start of study treatment, including Class III or IV congestive heart failure, myocardial infarction (heart attack), unstable angina (chest pain), and/or stroke"
+NCT05907057,Exclusion,"Has dysphagia (difficulty swallowing), short-gut syndrome, gastroparesis (stomach paralysis), or any other condition that limits the ingestion or gastrointestinal absorption of orally administered drugs"
+NCT05907057,Exclusion,Has uncontrolled hypertension (high blood pressure)
+NCT05907057,Exclusion,Have a history of arrhythmia requiring drug treatment or severe clinical symptoms;
+NCT05907057,Exclusion,Uncontrolled or symptomatic congestive heart failure (> NYHA level 2);
+NCT05907057,Exclusion,"Serious infectious diseases (uncured tuberculosis, pulmonary aspergillosis)."
+NCT05907057,Exclusion,Those who were not considered suitable for inclusion by the researchers.
+NCT06634394,Inclusion,Age ≥18 years
+NCT06634394,Inclusion,Patient must have confirmation of AML based on 2016 World Health Organization (WHO) criteria and not been previously treated.
+NCT06634394,Inclusion,Patients must have CD123-positive AML as confirmed by local flow cytometry (or immunohistochemistry [IHC]). Confirmation at diagnosis is acceptable.
+NCT06634394,Inclusion,"Patient must be considered ineligible for induction therapy defined by at least one of the following:≥75 years of age
+Eastern Cooperative Oncology Group (ECOG) Performance Status of 2 or 3
+Cardiac disorder (e.g., congestive heart failure requiring treatment, ejection fraction ≤ 50%, or chronic stable angina)
+Pulmonary disorder (e.g., DLCO ≤65% or FEV1 ≤65%)
+Creatinine clearance 30-45 mL/min based on Cockcroft-Gault or Modified of Diet in Renal Disease (MDRD) formular
+Hepatic disorder with total bilirubin between 1.5 and 3 times the ULN 5. Patient must have a projected life expectancy of ≥12 weeks"
+NCT06634394,Exclusion,"Patient has received treatment with the following:A hypomethylating agent, venetoclax, and/or chemotherapeutic agent for AML, myelodysplastic syndrome (MDS), chronic myelomonocytic leukemia (CMML), or myelodysplastic/myeloproliferative neoplasms (MPS/MPN)
+CAR-T cell therapy or history of allogeneic hematopoietic stem cell transplant (HSCT)
+Experimental therapies for MDS or AML"
+NCT06634394,Exclusion,"Patient has history of MPN including myelofibrosis, essential thrombocythemia, polycythemia vera, chronic myeloid leukemia (CML) with or without BCR-ABL1 translocation, or AML with BCR-ABL1 translocation."
+NCT06634394,Exclusion,Patient has acute promyelocytic leukemia.
+NCT06634394,Exclusion,Patient has a current autoimmune disorder requiring immunosuppressive therapy such as systemic (oral or IV) steroid therapy >10 mg methylprednisolone daily or its equivalent
+NCT06634394,Exclusion,Patient is receiving concurrent corticosteroid therapy as an anticancer drug (any dose).
+NCT06634394,Exclusion,Patient has known active CNS involvement with AML.
+NCT06634394,Exclusion,Creatinine clearance <30ml/min based on Cockcroft-Gault or MDRD formular.
+NCT06634394,Exclusion,Bilirubin of >3xULN in the absence of Gilbert's Syndrome.
+NCT06634394,Exclusion,AST and/or ALT >3 times the ULN.
+NCT04501120,Inclusion,"In accordance with the World Health Organization (WHO) 2016 diagnostic criteria for relapsed or refractory acute myeloid leukemia (AML), Mixed phenotype acute leukemia(MPAL), Chronic myelomonocytic leukemia (CMML), Higher-risk myelodysplastic syndrome (HR-MDS) , Blastic plasmacytoid dendritic cell neoplasm (BPDCN) and naïve AML ineligible for treatment with a standard chemotherapy due to age or comorbidities."
+NCT04501120,Inclusion,Eastern Cooperative Oncology Group (ECOG) Performance Status (PS): 0 -2 (0 to 3 for participants >= 60 to 74 years of age who are evaluated as ineligible for treatment with standard chemotherapy).
+NCT04501120,Inclusion,Subjects can accept oral administration of Lisaftoclax (APG-2575).
+NCT04501120,Inclusion,Life expectancy ≥ 3 months.
+NCT04501120,Inclusion,Adequate renal and liver function.
+NCT04501120,Inclusion,"Males, female patients of childbearing potential (postmenopausal women who must have been menopausal for at least 12 months to be considered infertile) and their partners voluntarily take contraception which the investigator considers effective during treatment and at least three months after the last dose of study drug."
+NCT04501120,Exclusion,Patients diagnosed with acute promyelocytic leukemia or t(9;22)(q34.1;q11.2); BCR-ABL1 positive AML patients.
+NCT04501120,Exclusion,The persistent toxicities caused by previous chemotherapy or radiotherapy has not been restored to lower than grade 2 by CTCAE 5.0 (except for alopecia).
+NCT04501120,Exclusion,Known leukemia infiltration of the central nervous system.
+NCT04501120,Exclusion,"Symptomatic active fungal, bacterial and/or viral infections."
+NCT04501120,Exclusion,"Prior history of allogeneic hematopoietic stem cell transplantation or adoptive cell immunotherapy, autologous hematopoietic stem cell transplantation within 12 months."
+NCT04501120,Exclusion,"Within 14 days before the first dose of study drug, received chemotherapy (hydroxyurea is permitted more than 24 hours before the first dose of study drug), radiotherapy, surgery, immunotherapy, targeted therapy, biological therapy or any investigational treatment."
+NCT04501120,Exclusion,"Within 7 days before the first dose of study drug, received a strong and/or moderate CYP3A inducer and/or Inhibitor."
+NCT06834282,Inclusion,"Patients need to have a confirmed diagnosis of de novo or secondary AML, or myelodysplastic syndrome (MDS)/AML with 10% to 19% blasts, per the International Consensus Classification 2022 or the WHO 2022 classification."
+NCT06834282,Inclusion,Absolute lymphocyte count >0.3 x 109/L prior to apheresis.
+NCT06834282,Inclusion,Eastern cooperative oncology group (ECOG) performance status 0 to 1.
+NCT06834282,Exclusion,"Prior therapy with a permanently integrated, genetically modified cell product."
+NCT06834282,Exclusion,No measurable leukemia on the screening bone marrow evaluation prior to any bridging therapy.
+NCT06834282,Exclusion,Active autoimmune disease or history of autoimmune disease requiring treatment within the prior 2 years. Patients with history of autoimmune thyroiditis or type 1 diabetes well controlled on replacement regimen are eligible.
+NCT06834282,Exclusion,"A known hypersensitivity or severe allergy to fludarabine, cyclophosphamide, or study drug components or diluents."
+NCT06834282,Exclusion,"Any other medical, psychological, or social condition that may interfere with study participation or compliance, or compromise patient safety in the opinion of the physician."
+NCT06834282,Exclusion,Primary immunodeficiency disorder.
+NCT02724163,Inclusion,"Age ≥18 years old, no gender limit ;"
+NCT02724163,Inclusion,be diagnosed with AML (non-M3) according to WHO 2016 standards;
+NCT02724163,Inclusion,No previous treatment;
+NCT02724163,Inclusion,"Ineligible for intensive chemotherapy based on the following definitions: ≥75 years of age or 18 to 74 years of age with at least one of the following comorbidities: Eastern Cooperative Oncology Group (ECOG) performance status of 2 or 3 A history of cardiac disease such as congestive heart failure Treatment is required, or ejection fraction ≤ 50%, or chronic stable angina, diffusing capacity of lung for carbon monoxide (DLCO) ≤ 65%, or forced expiratory volume in first second (FEV1) ≤ 65%, creatinine clearance ≥ 30 mL/min to < 45 mL/min, moderate hepatic impairment, total bilirubin > 1.5 to ≤ 3.0 × ULN, other comorbidities that are not suitable for intensive chemotherapy in the physician's judgment."
+NCT02724163,Inclusion,Subjects must have an ECOG performance status score of: 0 to 2 for subjects aged ≥ 75 years or 0 to 3 for subjects aged ≥ 18 to 74 years.
+NCT02724163,Inclusion,Expected survival time ≥3 months;
+NCT02724163,Exclusion,Combined with other malignant tumors
+NCT02724163,Exclusion,Have ever received treatment with chidamide and / or venetoclax or azacitidine;
+NCT02724163,Exclusion,"The risk is assessed as low risk according to the NCCN 2022 guidelines [t(8;21)(q22;q22.1);RUNX1-RUNX1T1, inv(16)(p13.1q22) or t(16;16 )(p13.1;q22);CBFB-MYH11 ] ;"
+NCT02724163,Exclusion,The subject is known to have AML central nervous system (CNS) infiltration;
+NCT02724163,Exclusion,"Have undergone cardiac angioplasty or stent placement within 12 months before signing the informed consent form , or have a history of myocardial infarction, unstable angina, or other clinically significant heart disease;"
+NCT02724163,Exclusion,"Active infections (including bacterial, fungal or viral infections) and organ bleeding that cannot be controlled clinically;"
+NCT02724163,Exclusion,Pregnant or lactating women;

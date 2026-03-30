@@ -1,0 +1,100 @@
+nct_id,Type,Criterion
+NCT06067698,Inclusion,Age ≥18 years old.
+NCT06067698,Inclusion,Both male and female sex.
+NCT06067698,Inclusion,Newly diagnosed patients with active mild and moderate ulcerative colitis according to American College of Gastroenterology (ACG) Clinical Guideline for diagnosing Ulcerative Colitis in Adults.26
+NCT06067698,Inclusion,Patients treated with 5-aminosalisylic acid (mesalamine).
+NCT06067698,Exclusion,Patients with severe ulcerative colitis.
+NCT06067698,Exclusion,Patients with colorectal cancer.
+NCT06067698,Exclusion,Patients on rectal or systemic steroids.
+NCT06067698,Exclusion,Patients on immunosuppressants or biological therapies.
+NCT06067698,Exclusion,Patients with previously failed treatment with sulphasalazine.
+NCT06067698,Exclusion,Patients with known allergy to study medications.
+NCT06067698,Exclusion,History of complete or partial colectomy.
+NCT06067698,Exclusion,"Patients with significant liver disease (fibrosis, cirrhosis, NASH, NAFLD)."
+NCT06067698,Exclusion,Patients with other inflammatory diseases.
+NCT06067698,Exclusion,Patients with thyroid diseases.
+NCT06067698,Exclusion,"Patients with arrhythmia, ischemic heart disease, and heart failure."
+NCT06067698,Exclusion,Patients with diabetes.
+NCT06067698,Exclusion,"Patients on antioxidants supplement (vitamin A, C, E), selenium, co-enzyme Q."
+NCT06067698,Exclusion,"Patients on amlodipine, levothyroxine, low strength aspirin, warfarin, atorvastatin, insulin, oral hypoglycemic, chemotherapy (drug-drug interaction)."
+NCT05218850,Inclusion,"7-21 years, mild to moderate ulcerative colitis"
+NCT05218850,Exclusion,UC therapy within 4 weeks of study medication initiation
+NCT05218850,Exclusion,"infectious colitis, -pregnancy"
+NCT05767021,Inclusion,Have an established diagnosis of UC for ≥3 months
+NCT05767021,Inclusion,Have confirmed diagnosis of moderately for severely active UC
+NCT05767021,Inclusion,Have current bowel urgency
+NCT05767021,Inclusion,"Have demonstrated an inadequate response to, a loss of response to, or an intolerance to conventional or to biologic/Janus Kinase (JAK) inhibitor/sphingosine-1-phosphate (S1P) receptor modulator therapy for UC."
+NCT05767021,Exclusion,Have Crohn's disease (CD)
+NCT05767021,Exclusion,"Have inflammatory bowel disease-unclassified, formerly known as indeterminate colitis, or"
+NCT05767021,Exclusion,"Have ulcerative proctitis, disease limited to the rectum, that is, distal to the recto-sigmoid junction, which lies approximately 10 to 15 centimeter (cm) from anal verge."
+NCT05767021,Exclusion,Have an inherited immunodeficiency syndrome or a monogenic cause of UC-like colonic inflammation
+NCT05767021,Exclusion,Have any history or current evidence of cancer of the gastrointestinal tract
+NCT05767021,Exclusion,Have active tuberculosis
+NCT05767021,Exclusion,Have HIV infection.
+NCT07064707,Inclusion,Age ≥ 18 years
+NCT07064707,Inclusion,Both male and female will be included
+NCT07064707,Inclusion,Mild and moderate UC patients are already diagnosed and confirmed by endoscope and histopathology.
+NCT07064707,Exclusion,Breast feeding or pregnancy.
+NCT07064707,Exclusion,Colorectal cancer patients.
+NCT07064707,Exclusion,Patients with severe UC.
+NCT07064707,Exclusion,Patients taking rectal or systemic steroids.
+NCT07064707,Exclusion,Patients taking immunosuppressives or biological therapies.
+NCT07064707,Exclusion,Addiction to alcohol and / or drugs.
+NCT07064707,Exclusion,Known allergy to the studied medications.
+NCT06525974,Inclusion,Age ≥ 18 years old.
+NCT06525974,Inclusion,Both male and female will be included.
+NCT06525974,Inclusion,Mild and moderate UC patients diagnosed and confirmed by endoscope.
+NCT06525974,Inclusion,Patient treated with 5-aminosalislic acid (mesalamine).
+NCT06525974,Exclusion,Patients with severe UC.
+NCT06525974,Exclusion,Significant liver and kidney function abnormalities.
+NCT06525974,Exclusion,Diabetic patients.
+NCT06525974,Exclusion,Patients with Colorectal cancer patients.
+NCT06525974,Exclusion,Patients taking rectal or systemic steroids.
+NCT06525974,Exclusion,Patients on immunosuppressants or biological therapies.
+NCT06525974,Exclusion,Addiction to alcohol and / or drugs.
+NCT06525974,Exclusion,Known allergy to the studied medications.
+NCT06525974,Exclusion,History of complete or partial colectomy.
+NCT06525974,Exclusion,"Patients with congestive heart failure, other heart disease (Arrhythmia, ischemic heart disease including angina and myocardial infarction)."
+NCT06525974,Exclusion,Patients with other inflammatory diseases and active infection.
+NCT06525974,Exclusion,"Patients with stressful condition (COPD, morbid obesity)."
+NCT06525974,Exclusion,Patients with liver disease.
+NCT06525974,Exclusion,Patients with thrombocytopenia and neutropenia.
+NCT06525974,Exclusion,Pregnant or lactating females.
+NCT06525974,Exclusion,Patients were treated with mercaptopurine.
+NCT06598943,Inclusion,Have had an established diagnosis of UC of ≥3 months in duration before baseline.
+NCT06598943,Inclusion,Have moderately to severely active UC as assessed by the UC disease activity score.
+NCT06598943,Inclusion,"Have an inadequate response to, loss of response to, or intolerance to at least one conventional medication (including corticosteroids) or one advanced therapy (including biologics, Janus Kinase (JAK) inhibitors, or sphingosine-1-phosphate (S1P) immunomodulators)."
+NCT06598943,Inclusion,Are on a stable dose of certain oral UC medications (including corticosteroids).
+NCT06598943,Exclusion,Have received anti-interleukin (IL)-23p19 or anti-IL-12p40 antibodies in the past.
+NCT06598943,Exclusion,Have experienced a thrombotic event within 24 weeks before baseline.
+NCT06598943,Exclusion,Have a current diagnosis of Crohn's Disease or certain other inflammatory gastrointestinal diseases.
+NCT06598943,Exclusion,Have had certain abdominal surgeries within the past 3 months or are likely to require surgery for UC during the study.
+NCT06598943,Exclusion,"Have a history of certain adenomas, dysplasia's, or malignancies."
+NCT07265570,Inclusion,"Subject who fully understand the content, process and possible adverse events of the study and capable of giving written informed consent form (ICF)."
+NCT07265570,Inclusion,Female subjects must be nonpregnancy and nonlactating. Subjects (male or female) are willing to take medically approved effective contraceptive measures from the screening period to 3 months after the last administration and have no sperm or egg donation plan during the study period and within 3 months after the last dose.
+NCT07265570,Inclusion,"Male or female between 18 and 75 years of age (inclusive), at the time of signing the ICF."
+NCT07265570,Inclusion,"Subject has a diagnosis of UC for at least 3 months prior to screening, and meets the criteria defined in the current protocol."
+NCT07265570,Exclusion,"Subjects have suspected or diagnosed Crohn's disease (CD), undefined colitis, ischemic colitis, fulminant colitis, toxic megacolon, radiation colitis, gastrointestinal perforation (other than appendicitis or penetrating injury), diverticular disease associated with colitis, enterophthisis, abdominal abscess or fistula, etc."
+NCT07265570,Exclusion,Subjects with previously diagnosed but uneradicated or current gastrointestinal dysplasia.
+NCT07265570,Exclusion,"Subjects have received surgery for UC or any other type of major intestinal surgery (i.e., surgical procedure requiring general anesthesia) or are likely to require related surgery during the study."
+NCT07265570,Exclusion,"Subjects have evidence of a pathogenic intestinal infection, or have a Clostridium Difficile infection or other intestinal infection within 30 days prior to the screening endoscopy or have tested positive for Clostridium Difficile toxins or other intestinal pathogens at the screening period."
+NCT07265570,Exclusion,"Subjects who are unable to take oral medications and/or have an impact on absorption of medication due to severe malnutrition or disease and surgery, etc., or who are currently receiving or plan to receive total parenteral nutrition (TPN) during the study period."
+NCT07265570,Exclusion,"Subjects with recurrent or disseminated (even if single episode) herpes zoster, or cytomegalovirus infection."
+NCT07265570,Exclusion,Subjects have unstable or uncontrolled and clinically significant allergic
+NCT07265570,Exclusion,"Subjects have history of any malignancy within 5 years of screening, except for successfully treated nonmelanoma skin cancer (NMSC), skin basal cell carcinoma, or localized carcinoma in situ of the cervix."
+NCT07265570,Exclusion,"Subjects have a clinically significant abnormal ECG at screening, including QTcF > 450 msec for males and > 470 msec for females."
+NCT07265570,Exclusion,Subjects have difficulty in venous blood collection or history of acupuncture syncope reaction or blood phobia.
+NCT07265570,Exclusion,Subjects are unable to maintain smoking and alcohol abstinence during the study.
+NCT06625450,Inclusion,Diagnosed cases of UC by endoscopy and biopsy
+NCT06625450,Inclusion,Patients in clinical remission for at least 3 months on Tofacitinib and mesalamine
+NCT06625450,Exclusion,Uncertain diagnosis
+NCT06625450,Exclusion,Active disease
+NCT06625450,Exclusion,"Subjects with Crohn's disease, microscopic colitis and collegenous colitis or IBD-U"
+NCT06625450,Exclusion,Unwilling to participate in study
+NCT06625450,Exclusion,Pregnant and lactating women or those who are planning pregnancy in the forthcoming 2 years
+NCT06625450,Exclusion,Patients with any suspected or proven malignancy
+NCT06625450,Exclusion,Subjects with severe comorbidities
+NCT06625450,Exclusion,Prior history of venous thromboembolism.
+NCT06625450,Exclusion,Subjects undergoing major surgery
+NCT06625450,Exclusion,Myocardial infarction within previous 3 months
+NCT06625450,Exclusion,Heart failure

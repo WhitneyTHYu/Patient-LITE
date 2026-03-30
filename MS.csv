@@ -1,0 +1,129 @@
+nct_id,Type,Criterion
+NCT06170970,Inclusion,"Male or female, 18 to 60 years of age, inclusive."
+NCT06170970,Inclusion,Must meet McDonald 2017 diagnostic criteria for multiple sclerosis based on the PI review of the medical records
+NCT06170970,Inclusion,Must complain from fatigue as one of their main symptoms and have a screening MFIS score of 33 or more
+NCT06170970,Inclusion,A screening ESS score of 10 or more
+NCT06170970,Inclusion,Must be ambulatory
+NCT06170970,Inclusion,"Must have internet and email access and the ability to use a computer or tablet, or smartphone"
+NCT06170970,Inclusion,Own an android smartphone or an iphone
+NCT06170970,Inclusion,Consent to use a medically acceptable method of contraception for the duration of the study
+NCT06170970,Exclusion,History of coronary artery disease or congestive heart failure
+NCT06170970,Exclusion,Uncontrolled hypertension at Screening
+NCT06170970,Exclusion,"A known history of uncontrolled diabetes (the last known hemoglobin A1c level above 7.0%), high BMI (>35), or hyperlipidemia (last known total cholesterol >240 mg/dl, or LDL cholesterol level >160 mg/dl)"
+NCT06170970,Exclusion,Receiving drugs/treatments that increase blood pressure or heart rate
+NCT06170970,Exclusion,A history of cerebrovascular disease or stroke
+NCT06170970,Exclusion,"A medical or neurological disorder other than MS, that was associated with excessive sleepiness."
+NCT06170970,Exclusion,A history of phenylketonuria or hypersensitivity to the phenylalanine-derived product
+NCT06170970,Exclusion,A history of alcohol or drug abuse within the past two years
+NCT06170970,Exclusion,"A history of psychosis, or bipolar disorder"
+NCT06170970,Exclusion,A history of cardiac arrythmias
+NCT06170970,Exclusion,Use within 14 days of a monoamine oxidase (MAO) inhibitor drug
+NCT06170970,Exclusion,Pregnant or lactating
+NCT06170970,Exclusion,A known history of moderate or severe kidney dysfunction
+NCT06463743,Inclusion,age between 55 and 75 years old
+NCT06463743,Inclusion,having a diagnosis of MS based on the latest McDonald criteria
+NCT06463743,Inclusion,non-active disease course (no relapses and no MRI activity) in the last 2 years as determined by the MS provider and based on the 2020 revised clinical course criteria
+NCT06463743,Inclusion,EDSS score <7.0
+NCT06463743,Exclusion,inability to undergo MRI scans
+NCT06463743,Exclusion,diabetes or uncontrolled cardiovascular disease
+NCT07224373,Inclusion,Age ≥ 18-years-old to ≤ 75-years-old at the time of consent
+NCT07224373,Inclusion,"Diagnosis of RMS according to the 2017 McDonald Criteria (Thompson et al 2018) or diagnosis of relapsing, active SPMS according to Lublin et al 2014."
+NCT07224373,Inclusion,Participants should have an EDSS of ≤ 6.5 at screening.
+NCT07224373,Inclusion,"Evidence of active disease(clinical relapses and MRI activities within 2 years prior to screening), or intolerance, while on a high efficacy disease-modifying therapy for ≥ 6 months."
+NCT07224373,Exclusion,Any prior CAR-T or CAR-NK cell exposure.
+NCT07224373,Exclusion,Underwent splenectomy within 12 months prior to signing the ICF.
+NCT07224373,Exclusion,Received a solid organ transplant at any time or on an active transplant waiting list.
+NCT07224373,Exclusion,Prior treatment with autologous hematopoietic stem cell transplantation or total lymphoid irradiation.
+NCT07224373,Exclusion,Cardiac conditions or any other significant cardiac condition that would present undue risk to the participant in the investigator's opinion:
+NCT07224373,Exclusion,"Any other central nervous system disease including epilepsy, convulsive seizures, organic encephalopathy syndrome, non-MS related paralysis, aphasia, stroke, severe brain injury, dementia, Parkinson's disease or associated movement disorder, psychosis, CNS vasculitis, or any other neurological disease that may impact the ability to evaluate neurotoxicity. History of a seizure disorder even if the seizure disorder is well controlled with anti-epileptics."
+NCT07224373,Exclusion,Participant has significant psychiatric condition (active or history of).
+NCT07224373,Exclusion,History of other immune-mediated disease that required continued systemic immunosuppression/systemic disease-modifying agents.
+NCT07224373,Exclusion,Evidence of clinically significant bleeding or active bleeding diathesis within 90 days before screening
+NCT07224373,Exclusion,History of malignancy or ongoing treatment for prior malignancy.
+NCT07224373,Exclusion,Inborn error of immunity and/or primary immunodeficiency.
+NCT07224373,Exclusion,Seropositive for HIV.
+NCT07224373,Exclusion,"Active viral (any etiology, HBV, HCV) hepatitis are excluded."
+NCT07224373,Exclusion,Major surgery within 4 weeks prior to apheresis or lymphodepletion or has surgery planned during the study or within 4 weeks after study treatment administration.
+NCT07224373,Exclusion,"Pregnant, breastfeeding, or planning to become pregnant while enrolled in this study or within 1 year after receiving study treatment, whichever is longer."
+NCT07074886,Inclusion,Diagnosis of RMS or PPMS according to the revised McDonald 2017 criteria (Thompson et al. 2018) or the most current McDonald criteria at the time of study start
+NCT07074886,Inclusion,"Expanded Disability Status Scale (EDSS) score, 0-6.5, inclusive, at screening"
+NCT07074886,Exclusion,Participants who have previously received anti-cluster of differentiation (CD)20s (including ocrelizumab) less than 2 years before screening
+NCT07074886,Exclusion,"Participants who have previously received anti-CD20s (including ocrelizumab) more than 2 years before screening if one of the following conditions is met: B-cell count is below lower limit of normal (LLN), or the discontinuation of the treatment was due to safety reasons"
+NCT07074886,Exclusion,History of confirmed or suspected progressive multifocal leukoencephalopathy (PML)
+NCT07074886,Exclusion,"History of cancer, including hematologic malignancy and solid tumors, within 10 years of screening"
+NCT07074886,Exclusion,Immunocompromised state
+NCT07074886,Exclusion,Sensitivity or intolerance to any ingredient (including excipients) of ocrelizumab
+NCT07074886,Exclusion,History of severe allergic or anaphylactic reactions to humanized or murine monoclonal antibodies
+NCT07074886,Exclusion,Any concomitant disease that may require chronic treatment with systemic corticosteroids or immunosuppressants during the course of the study
+NCT07074886,Exclusion,"Significant, uncontrolled disease, such as cardiovascular, pulmonary, renal, hepatic, endocrine or gastrointestinal, or any other significant disease that may preclude participation in the study"
+NCT07074886,Exclusion,Lack of peripheral venous access
+NCT07074886,Exclusion,"Previous treatment with cladribine, atacicept, and alemtuzumab"
+NCT07074886,Exclusion,Any previous treatment with bone marrow transplantation and hematopoietic stem cell transplantation
+NCT07074886,Exclusion,Any previous history of transplantation or anti-rejection therapy
+NCT07074886,Exclusion,"Positive screening tests for active, latent, or inadequately treated hepatitis B virus (HBV)"
+NCT07020715,Inclusion,"Patient is ≥ 18 years old, and ≤65 years of age, at time of screening visit"
+NCT07020715,Inclusion,Diagnosis of MS according to the 2017 McDonald Criteria or more recent criteria
+NCT07020715,Inclusion,Progressive MS by 2014 Lublin MS phenotypic criteria
+NCT07020715,Inclusion,"EDSS 2,0 - ≤7,5"
+NCT07020715,Inclusion,No clinical evidence of relapses in the past 2 years
+NCT07020715,Inclusion,Ability to understand and the willingness to sign a written informed consent document. Patients must have signed informed consent to participate in the trial.
+NCT07020715,Inclusion,Appropriate venous access
+NCT07020715,Inclusion,Use of adequate contraceptive measures or not of childbearing potential
+NCT07020715,Exclusion,"Previous treatment with alemtuzumab, autologous hematopoietic stem cell transplantation or cladribine in the past 3 years."
+NCT07020715,Exclusion,"Prior treatment with any investigational agent within 3 months, or 5 half-lives, whichever is longer."
+NCT07020715,Exclusion,Current and ongoing treatment with an approved DMT for MS
+NCT07020715,Exclusion,"Treatment with S1P receptor modulators, natalizumab, dimethylfumarate, teriflunomide within the last 3 months prior to study enrolment; last treatment with B cell depleting monoclonal antibodies at least 6 months prior to enrollment and normal CD19 B cell counts at time of enrollment"
+NCT07020715,Exclusion,Pregnancy or planning pregnancy in the next 12 months and breast feeding
+NCT07020715,Exclusion,Drug or alcohol abuse
+NCT07020715,Exclusion,Inability to undergo MRI assessments
+NCT07020715,Exclusion,History of or actual signs of immunodeficiency or malignancies (with the exception of treated basal cell carcinoma)
+NCT07020715,Exclusion,"Concurrent clinically relevant cardiac, immunological, pulmonary, neurological, renal or other major disease that could impact safety or outcome measures."
+NCT07020715,Exclusion,"Active or chronic infection with hepatitis B, C, HIV, syphilis or tuberculosis"
+NCT07020715,Exclusion,Splenectomy
+NCT06220669,Inclusion,"Participants must meet criteria for relapsing forms of multiple sclerosis, including relapsing-remitting multiple sclerosis based on the 2017 revision of the McDonald diagnostic criteria (Thompson et al. 2018) with a relapsing course (RMS) activity according to Klineova and Lublin 2018."
+NCT06220669,Inclusion,"Participants must have 1 of these: at least 1 documented relapse within the previous year
+at least 2 documented relapses within the previous 2 years, or
+at least 1 active GdE brain lesion on an MRI scan in the past 180 days prior to screening."
+NCT06220669,Inclusion,Have an Expanded Disability Status Scale (EDSS) score of less than or equal to (≤) 5.5 at screening and randomization.
+NCT06220669,Exclusion,"Have had a diagnosis of: primary progressive multiple sclerosis (MS) according to the 2017 revision of McDonald diagnostic criteria (Thompson et al. 2018), or
+nonactive secondary progressive MS ( Klineova and Lublin 2018)."
+NCT06220669,Exclusion,Meet criteria for neuromyelitis optica spectrum disorder (Wingerchuk and Lucchinetti 2022).
+NCT06220669,Exclusion,Have a history of clinically significant central nervous system (CNS) disease.
+NCT06220669,Exclusion,Have had a confirmed relapse with systemic corticosteroid administration <30 days prior to randomization.
+NCT06220669,Exclusion,Have more than 20 active GdE brain lesions on screening MRI scan.
+NCT06220669,Exclusion,Have received any of these medications or treatments.
+NCT06220669,Exclusion,"Have a current or recent acute, active infection."
+NCT06220669,Exclusion,Have current serious or unstable illnesses.
+NCT06141473,Inclusion,The participant must have been diagnosed with RMS according to the 2017 revision of the McDonald diagnostic criteria.
+NCT06141473,Inclusion,The participant has an EDSS score ≤5.5 at the first visit (Screening Visit)
+NCT06141473,Inclusion,"The participant must have at least 1 of the following prior to screening: ≥1 documented relapse within the previous year OR
+≥2 documented relapses within the previous 2 years, OR
+≥1 documented Gd enhancing lesion on an MRI scan within the previous year."
+NCT06141473,Inclusion,Contraceptive use by men or women should be consistent with local regulations regarding the methods of contraception for those participating in clinical studies.
+NCT06141473,Exclusion,The participant has been diagnosed with PPMS according to the 2017 revision of the McDonald diagnostic criteria
+NCT06141473,Exclusion,The participant has a history of infection or may be at risk for infection:
+NCT06141473,Exclusion,The presence of psychiatric disturbance or substance abuse.
+NCT06141473,Exclusion,"History, clinical evidence, suspicion or significant risk for thromboembolic events, as well as myocardial infarction, stroke, and/or antiphosholipid syndrome and any participants requiring antithrombotic treatment."
+NCT06141473,Exclusion,Current hypogammaglobulinemia defined by Ig levels below the LLN at Screening or a history of primary hypogammaglobulinemia.
+NCT06141473,Exclusion,"A history or presence of disease that can mimic MS symptoms, such as, but not limited to neuromyelitis optica spectrum disorder, systemic lupus erythematosus, Sjogren's syndrome, acute disseminated encephalomyelitis, and myasthenia gravis."
+NCT06141473,Exclusion,The participant has had a relapse in the 30 days prior to randomization.
+NCT06141473,Exclusion,"The participant has contraindication for MRI, ie, presence of pacemaker, metallic implants in high risk areas (ie, artificial heart valves, aneurysm/vessel clips), presence of metallic material (eg, shrapnel) in high risk areas, known history of allergy to any contrast medium, or history of claustrophobia that would prevent completion of all protocol scheduled MRI scans."
+NCT05134441,Inclusion,Male or female patient (age ≥18 to ≤55 years).
+NCT05134441,Inclusion,Patients with an established diagnosis of MS according to 2017 McDonald Criteria.
+NCT05134441,Inclusion,"Patients with RMS comprising of relapsing remitting MS (RRMS) and active secondary progressive MS, both defined according to Lublin criteria 1996 and 2014."
+NCT05134441,Inclusion,"Active disease as defined by Lublin 2014 evidenced prior to Screening by: At least 2 relapses in the last 24 months before randomization, or
+At least 1 relapse in the last 12 months before randomization, or
+A positive Gd+ MRI scan (brain and/or spine) in the last 12 months prior to randomization."
+NCT05134441,Exclusion,Patients with non-active secondary progressive MS and primary progressive MS.
+NCT05134441,Exclusion,"Any disease other than MS that may better explain the signs and symptoms, including history of complete transverse myelitis."
+NCT05134441,Exclusion,Clinical signs or presence of laboratory findings suggestive for neuromyelitis optica (NMO) spectrum disorders or myelin oligodendrocyte glycoprotein (MOG)-IgG-associated encephalomyelitis
+NCT05134441,Exclusion,"Any active and uncontrolled coexisting autoimmune disease, other than MS (except for type 1 diabetes mellitus and inflammatory bowel disease)"
+NCT05134441,Exclusion,Use of experimental/investigational drug (with the exception ofCOVID-19 vaccines approved by emergency use authorization) and/or participation in drug clinical studies within 6 months prior to Screening
+NCT05134441,Exclusion,"Previous or current use of MS treatments lifelong, or within a pre-specified time period."
+NCT05134441,Exclusion,Use of the pre-specified concomitant medications.
+NCT05134441,Exclusion,Clinically significantly abnormal and pre-specified lab values.
+NCT05134441,Exclusion,History of chronic systemic infections within 6 months before the date of informed consent.
+NCT05134441,Exclusion,"Diagnosis or suspected liver function impairment, which may cause fluctuating liver function tests during this study."
+NCT05134441,Exclusion,Known history of nephrolithiasis or underlying condition with a strong association of nephrolithiasis.
+NCT05134441,Exclusion,History or clinical diagnosis of gout.
+NCT05134441,Exclusion,History or presence of any major medical or psychiatric illness
